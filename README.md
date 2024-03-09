@@ -21,6 +21,9 @@ Project Requirements :
 Project Structure : 
 
 Notebooks: Contains Python notebooks used for data preprocessing, feature engineering, model training, and analysis.
+
 Data: Includes datasets used for Lululemon stock and its competitors.
+
 Presentations: Contains the final project presentation files addressing the requirements mentioned above.
+
 README.md: This file provides an overview of the project and its components.
